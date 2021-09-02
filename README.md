@@ -1,4 +1,10 @@
+
 # Getting Started with Create React App
+## Install the NPM's
+This project includes- React and Reactstrap
+run npm install --save reactstrap 
+
+and react router
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
